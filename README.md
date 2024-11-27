@@ -46,9 +46,9 @@ Copier également le contenu de ce fichier dans le `README.md` de votre repo en 
 Template
 
 ```
-> Groupe XXX
-> GitHub : https://github.com/esgi-na-sa/TP1
-> branch1 : Élève 1 / @eleve1
-> branch2 : Élève 2 / @eleve2
-> branch3 : Élève 3 / @eleve3
+> Groupe 4
+> GitHub : https://github.com/TheWhiteSunexe/TP1
+> 1Tristan : Tristan GILLET / @TheWhiteSunexe
+> 2Alexandre : Alexandre BOUDINAR / @AlexandreBDR
+> 3Erwan : Erwan SGHAÏER / @ERWANSGHAIER
 ```
